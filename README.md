@@ -1,2 +1,12 @@
 # STAR-MARKET-
-🚀 Star Market is a platform to grow your business with creative Ads, Promo campaigns, and Freelance services.   🎯 Our goal is to help brands and individuals reach more customers through powerful marketing strategies.   📲 Connect with us for collaboration, promotions, and business deals.
+# 🚀 Star Market – Grow Your Business
+
+Star Market helps brands and freelancers connect through creative Ads, Promo campaigns, and Business deals.  
+
+## ✨ Features
+- Ads & Promotions
+- Freelance Services
+- Business Growth Tools
+
+## 📲 Contact
+DM us on Instagram: @sk_designer_no.1
